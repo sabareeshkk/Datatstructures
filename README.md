@@ -1,7 +1,7 @@
 # Datatstructures
 [![Build Status](https://travis-ci.org/sabareeshkk/Datatstructures.svg?branch=master)](https://travis-ci.org/sabareeshkk/Datatstructures)
 
-###problem faced
+### Problem Faced
 *   With relative inputes in python 
 
     check this link [example link](http://stackoverflow.com/questions/1918539/can-anyone-explain-pythons-relative-imports).
