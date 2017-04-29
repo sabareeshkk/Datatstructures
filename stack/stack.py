@@ -8,6 +8,7 @@ class Stack(object):
     """
     Creates a stack using list
     """
+
     def __init__(self):
         """
         Initializing stack array
@@ -46,6 +47,12 @@ class Stack(object):
         size of the list
         """
         return len(self.stack)
+
+    def show(self):
+        """
+        prints the elements in the stack
+        """
+        return self.stack
 
 
 if __name__ == '__main__':
