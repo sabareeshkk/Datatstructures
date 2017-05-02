@@ -4,6 +4,11 @@ Implementing Queue using List
 
 
 class Queue(object):
+    """
+    Initialize queue Array
+    param: None
+    return: None
+    """
 
     def __init__(self):
         self.queue = []
