@@ -3,6 +3,14 @@
 
 Introduction to Datastructures Using Python :snake: :heart:
 
+>It's easy to make mistakes that only come out much later, after you've already implemented a lot of code. You'llrealize Oh I should have used a different type of data structure. Start over from scratch
+   **Guido van Rossum**
+
+#Content
+    -Stack
+    -Queue
+    -LinkedList
+
 ### Problem Faced
 
 *   **With relative inputes in python** 
