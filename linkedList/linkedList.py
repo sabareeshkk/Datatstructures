@@ -5,6 +5,12 @@ from node import Node
 
 
 class UnorderedList(object):
+    """
+    create linkedList 
+    param:None
+    return:None
+    """
+
     def __init__(self):
         self.head = None
 

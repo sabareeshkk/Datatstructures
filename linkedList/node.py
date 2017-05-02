@@ -4,6 +4,12 @@ Implement LinkedList Nodes.
 
 
 class Node(object):
+    """
+    Create Node 
+    param: data
+    return: None
+    """
+
     def __init__(self, data):
         self.data = data
         self.next = None
